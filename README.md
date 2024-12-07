@@ -1,7 +1,7 @@
 # Linkedin_Post_Generator
 This innovative tool helps LinkedIn influencers analyze their past posts and generate new ones that align with their unique writing style. 
 
-<img src="resources/tool.png"/>
+<img src="resources/tools.png"/>
 
 Imagine Alex, a LinkedIn influencer, who wants assistance crafting posts that resonate with his audience. By feeding his previous LinkedIn posts into this tool, it extracts essential details like key topics, writing tone, post length, and more. Alex can then select parameters like topic, language, and length, and use the "Generate" button to create a new post that seamlessly matches his established style.
 
